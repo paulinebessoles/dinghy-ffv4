@@ -45,12 +45,12 @@ L’humidité relative est celle de «tous les jours». Elle se mesure avec un 
 {{< columns >}}
 Deux masses d’air ayant des propriétés (températures et humidités) différentes ne se mélange pas ou peu. Selon la température de la masse d’air, la quantité de vapeur d’eau maximale admissible avant saturation varie. Cette variation est représentée par le diagramme de Mollier. Enfin,le point de rosée est latempérature pour laquelle la masse d’air doit être refroidie (à pression constante) pour qu’elle sature (humidité relative à 100 %).
 <--->
-// insérer digramme de mollier
+![Diagramme de Mollier](images/mollier-diagrams.png)
 {{< /columns >}}  
   
 # L’atmosphère
 {{< columns >}}
-//insérer diagramme atmo
+![Digramme atmosphère](images/atmosphere.png)
 <--->  
 Il existe différentes couches dans l’atmosphère (du sol vers l’espace): 
 - Troposphère
