@@ -4,6 +4,7 @@ weight: 1
 ---
 # Circulation générale
 
+## Explication des différences de température sur la terre
 {{< columns >}}
 ![Diagramme terre soleil](../images/cell-sun.jpeg)
 <--->
@@ -13,6 +14,8 @@ Cependant,l’énergie reçue par la Terre n’est pas uniforme selon la latit
 L’équateur reçoit plus d’énergie que les pôles. Cela va créer des zones plus chaudes et des zones plus froides.Les masses d’air chaudes vont monter (zone d’ascendance) et les masses d’air froides vont descendre (zone de subsidence) à cause de leurs propriétés thermiques.
 Cela crée des cellules de convections.
 {{< /columns >}}
+
+## Celllules de convections
 
 A l’échelle planétaire, il existe plusieurs cellules de convections qui régissent la météorologie. Il y en à trois principales :
 {{< columns >}}
