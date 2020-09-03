@@ -4,11 +4,10 @@ baseURL: https://armandfardeau.github.io/dinghy-ffv4/
 title: Dériveur - FFV4
 theme: book
 defaultContentLanguage: fr
-disqusShortname: armandfardeau
 
 # Book configuration
 disablePathToLower: true
-enableGitInfo: false
+enableGitInfo: true
 
 # Needed for mermaid/katex shortcodes
 markup:
@@ -35,7 +34,7 @@ menu:
       url: "https://github.com/armandfardeau/dinghy-ffv4"
       weight: 10
     - name: "Icons Credits"
-      url: "https://www.flaticon.com/authors/those-icons"
+      url: /icons-credits/
       weight: 11
 
 params:
@@ -65,6 +64,8 @@ params:
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
   BookEditPath: edit/develop
+
+  BookIssuePath: issues/new
 
   # Configure the date format used on the pages
   # - In git information
