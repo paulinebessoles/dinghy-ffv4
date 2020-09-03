@@ -36,4 +36,34 @@ De l’air chaud et humide arrive sur une surface plus froide.
 {{< /tab >}}
 {{< /tabs >}}
 
+## Classification des différents nuages
 
+
+On reconnait un nuage grâce à sa forme et à son altitude (voir [Annexe 1]() pour les photos).
+{{< columns >}}
+![Les différents types de nuages](../images/clouds.png)
+<--->
+- Etage supérieur (5000 m et plus): **cirro**.
+- Etage moyen(2000–5000m): **alto**.
+- Etage bas (2000m et moins)
+- A développement vertical: **cumulo**.
+
+<br/>
+
+- En couche: air **stable**, nuage **stratiforme**.
+- Développement vertical: air **instable**, nuage **cumuliforme**.
+{{< /columns >}}
+La nébulosité est exprimée en octas: la voute céleste en entier compte pour 8 octas. S’il y a par ex, la moitié du ciel occupé par des nuages, il y a 4 octas de nuages.
+
+
+{{< hint warning >}}
+**Comment appelle t'on la couche de l'étage supérieur?**
+
+La couche cirro.
+{{< /hint >}}
+
+{{< hint warning >}}
+**Complétez la phrase suivante: "Les nuages à développement vertical sont de la famille des ____ et sont de nature ____, les nuages à développement en couche sont de la famille des ____ et sont de nature ____"**
+
+Les nuages à développement vertical sont de la famille des **cumuliformes** et sont de nature **instable**, les nuages à développement en couche sont de la famille des **stratiformes** et sont de nature **stable**
+{{< /hint >}}
