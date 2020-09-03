@@ -30,3 +30,9 @@ Cependant, la direction des mouvements de ces masses d’air se trouve modifié
 - Plus la vitesse de la particule est importante, plus la force de Coriolis est intense.
 {{< /columns >}}
 Cette force tend à déplacer la particule vers sa droite dans l’hémisphère nord (et vers sa gauche dans l’hémisphère sud). Sans cette force, il n’y aurai qu’une cellule par hémisphère.
+
+{{< hint warning >}}
+**Faites un schéma des différentes cellules dans l'hémisphère nord:** 
+
+![](../images/north-cells.png)
+{{< /hint >}}
