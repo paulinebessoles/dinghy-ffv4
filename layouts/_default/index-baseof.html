@@ -30,12 +30,6 @@
 
       <label for="menu-control" class="hidden book-menu-overlay"></label>
     </div>
-
-    {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
-    <aside class="book-toc">
-      {{ template "toc" . }} <!-- Table of Contents -->
-    </aside>
-    {{ end }}
   </main>
 
   {{ partial "docs/inject/body" . }}
