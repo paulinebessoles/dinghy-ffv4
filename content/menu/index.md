@@ -64,7 +64,7 @@ headless: true
     - Régate
 <br/>
 
-- **Annexe**
+- **Annexes**
     - Reconnaître les nuages
     - Du bon usage d’un bateau à moteur
     - Mouiller son BIB sans frayeurs
