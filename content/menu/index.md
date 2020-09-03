@@ -34,7 +34,7 @@ headless: true
 <br/>
 
 - **Les chronologies**
-    - Descendre et monter les safrans
+    - Descendre et monter les appendices
     - La cape
     - Marche arrière
     - Départ de plage
