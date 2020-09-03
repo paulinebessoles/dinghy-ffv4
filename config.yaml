@@ -33,6 +33,9 @@ menu:
     - name: "Github"
       url: "https://github.com/armandfardeau/dinghy-ffv4"
       weight: 10
+    - name: "Icons Credits"
+      url: "https://www.flaticon.com/authors/those-icons"
+      weight: 11
 
 params:
   # (Optional, default true) Controls table of contents visibility on right side of pages.
