@@ -5,7 +5,7 @@ weight: 1
 # Circulation générale
 
 {{< columns >}}
-![Diagramme terre soleil](images/cell-sun.jpeg)
+![Diagramme terre soleil](../images/cell-sun.jpeg)
 <--->
 Le soleil nous fournit la quasi-totalité de notre énergie. 
 Le bilan énergétique de la Terre est nul: la Terre renvoi dans l’espace toute l’énergie qu’elle reçoit.
@@ -16,14 +16,14 @@ Cela crée des cellules de convections.
 
 A l’échelle planétaire, il existe plusieurs cellules de convections qui régissent la météorologie. Il y en à trois principales :
 {{< columns >}}
-![Diagramme cellule métérologique](images/cell-earth.png)
+![Diagramme cellule métérologique](../images/cell-earth.png)
 <--->
 - cellule de Hadley
 - cellule de Ferrel
 - cellule polaire.
 {{< /columns >}}
 {{< columns >}}
-![Diagramme coriolis](images/coriolis.png)
+![Diagramme coriolis](../images/coriolis.png)
 <--->
 Cependant, la direction des mouvements de ces masses d’air se trouve modifiée par la présence de la force de Coriolis. Cette dernière est due à la rotation de la Terre sur son axe: toute particule en mouvement dans un fluide (air ou eau par ex.) la subit. Elle dépend de la latitude et de la vitesse de la particule.
 - Plus la particule est éloignée de l’équateur, plus la force de Coriolis est intense.
