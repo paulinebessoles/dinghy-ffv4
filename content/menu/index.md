@@ -66,6 +66,7 @@ headless: true
 
 - **Annexes**
     - Reconnaître les nuages
+    - [Les fronts]({{<relref"/docs/annexes/annexe-fronts">}})
     - Du bon usage d’un bateau à moteur
     - Mouiller son BIB sans frayeurs
 <br/>
