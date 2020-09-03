@@ -4,6 +4,7 @@ baseURL: https://armandfardeau.github.io/dinghy-ffv4/
 title: Dériveur - FFV4
 theme: book
 defaultContentLanguage: fr
+disqusShortname: armandfardeau
 
 # Book configuration
 disablePathToLower: true
