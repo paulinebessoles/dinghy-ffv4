@@ -2,23 +2,22 @@
 headless: true
 ---
 
-- [**Météo**]({{<relref"/docs/meteo">}})
-    - [Circulation générale]({{<relref"/docs/meteo/overview_and_definitions">}})
-    - [Le vent]({{<relref"/docs/meteo/wind">}})
-    - [Les masses d’air]({{<relref"/docs/meteo/air_volumes">}})
-    - [Les nuages]({{<relref"/docs/meteo/clouds">}})
-    - [Frontologie]({{<relref"/docs/meteo/frontology">}})
-    - [Temps associé à une perturbation]({{<relref"/docs/meteo/weather_associated_with_a_perturbation">}})
-    - [La carte isobarique]({{<relref"/docs/meteo/isobaric_map">}})
-    - [Météorologie locale]({{<relref"/docs/meteo/local_weather">}})
-    - [Les vagues, lahoule]({{<relref"/docs/meteo/waves_and_swell">}})
-    - [Le bulletin météo]({{<relref"/docs/meteo/weather_report">}})
+- [**Météo**]({{<relref"/docs/meteorology">}})
+    - [Circulation générale]({{<relref"/docs/meteorology/general_circulation">}})
+    - [Le vent]({{<relref"/docs/meteorology/wind">}})
+    - [Les masses d’air]({{<relref"/docs/meteorology/air_volumes">}})
+    - [Les nuages]({{<relref"/docs/meteorology/clouds">}})
+    - [Frontologie]({{<relref"/docs/meteorology/frontology">}})
+    - [Temps associé à une perturbation]({{<relref"/docs/meteorology/weather_associated_with_a_perturbation">}})
+    - [La carte isobarique]({{<relref"/docs/meteorology/isobaric_map">}})
+    - [Météorologie locale]({{<relref"/docs/meteorology/local_weather">}})
+    - [Les vagues, lahoule]({{<relref"/docs/meteorology/waves_and_swell">}})
+    - [Le bulletin météo]({{<relref"/docs/meteorology/weather_report">}})
 <br/>
 
-- **Les vents**
-    - Définitions
-    - Changement de vitesse à vent réel fixé
-    - Passaged’une risée
+- [**Les vents**]({{<relref"/docs/winds">}})
+    - [Changement de vitesse à vent réel fixé]({{<relref"/docs/winds/changing_speed_with_fixed_real_wind_speed">}})
+    - [Passage d’une risée]({{<relref"/docs/winds/gust_of_wind">}})
 <br/>
 
 - **Mécanique du Dériveur**
