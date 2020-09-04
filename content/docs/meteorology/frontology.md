@@ -20,21 +20,21 @@ On distingue différents types de fronts :
 {{< columns >}}
 ![Front froid](../images/cold-front.png)
 <--->
-airfroid,quiparsadynamique,rencontreun air plus chaud.
+Air froid,qui par sa dynamique,rencontre un air plus chaud.
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Front chaud" >}}
 {{< columns >}}
 ![Front chaud](../images/hot-front.png)
 <--->
-air chaud, qui par sa dynamique, rencontre un air plus froid.
+Air chaud, qui par sa dynamique, rencontre un air plus froid.
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Front occlus" >}}
 {{< columns >}}
 ![Front occlus](../images/occlus-front.png)
 <--->
-chape d’air chaud qui surplombe un air plus froid
+Chape d’air chaud qui surplombe un air plus froid
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Front stationnaire" >}}
