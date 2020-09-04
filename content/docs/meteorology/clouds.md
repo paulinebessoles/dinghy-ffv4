@@ -63,12 +63,14 @@ La nébulosité est exprimée en octas: la voute céleste en entier compte p
 
 {{< hint warning >}}
 **Comment appelle t'on la couche de l'étage supérieur?**
-
+{{< expand "Réponse">}}
 La couche cirro.
+{{< / expand >}}
 {{< /hint >}}
 
 {{< hint warning >}}
 **Complétez la phrase suivante: "Les nuages à développement vertical sont de la famille des ____ et sont de nature ____, les nuages à développement en couche sont de la famille des ____ et sont de nature ____"**
-
+{{< expand "Réponse">}}
 Les nuages à développement vertical sont de la famille des **cumuliformes** et sont de nature **instable**, les nuages à développement en couche sont de la famille des **stratiformes** et sont de nature **stable**
+{{< / expand >}}
 {{< /hint >}}

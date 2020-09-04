@@ -49,8 +49,9 @@ Les barbules se retrouvent toujours du côté des pressions les plus basses de l
 
 {{< hint warning >}}
 **Faites un schéma à l'aide de barbule d'une hampe de vent pour décrire un vent provenant du Nord-Est et de 25 kts de vitesse:** 
-
-![](../images/25kts.png)
+{{< expand "Réponse">}}
+![25 noeuds](../images/25kts.png)
+{{< / expand >}}
 {{< /hint >}}
 
 ## Échelle de Beaufort
@@ -61,5 +62,7 @@ L’échelle de Beaufort est fonction de la force du vent. Anciennement, c’e�
 {{< hint warning >}}
 **A quelle force sur l'échelle de Beaufort correspond un vent de 25 kts?** 
 
+{{< expand "Réponse">}}
 Force 6
+{{< / expand >}}
 {{< /hint >}}

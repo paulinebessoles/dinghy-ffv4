@@ -21,14 +21,16 @@ Note : à nos latitudes, le moment de la journée ne modifie quasiment pas la 
 
 {{< hint warning >}}
 **Quellle est la pression moyenne de l'atmosphère au niveau de la mer?** 
-
+{{< expand "Réponse">}}
 1013, 25 hPa 
+{{< /expand >}}
 {{< /hint >}}
 
 {{< hint warning >}}
 **Vous relevez au baromètre une pression de 980hPa, qu'en déduisez-vous?** 
-
-Nous sommes actuellement dans le régime de la dépression 
+{{< expand "Réponse">}}
+Nous sommes actuellement dans le régime de la dépression
+{{< / expand >}} 
 {{< /hint >}}
 
 ## La température:

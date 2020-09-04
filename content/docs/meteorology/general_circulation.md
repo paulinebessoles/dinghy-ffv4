@@ -36,6 +36,7 @@ Cette force tend à déplacer la particule vers sa droite dans l’hémisphe�
 
 {{< hint warning >}}
 **Faites un schéma des différentes cellules dans l'hémisphère nord:** 
-
-![](../images/north-cells.png)
+{{< expand "Réponse">}}
+![Cellules atmosphère](../images/north-cells.png)
+{{< / expand >}}
 {{< /hint >}}

@@ -50,8 +50,9 @@ température est supérieure à celle de son environnement. Dès que sa temp
 
 {{< hint warning >}}
 **A partir de vos déduction, décrivez une masse d'air stable et instable** 
-
+{{< expand "Réponse">}}
 Lorsque le sol est chauffé par le Soleil, les couches les plus proches du sol sont réchauffées et comme l'air chaud est moins dense, l'air réchauffé va avoir tendance à s'élever.
  Si la poche d'air chaud se refroidit moins vite que l'air environnant, cette parcelle d'air va accélérer vers le haut. On est alors en présence d'une masse d'air instable. 
  Dans le cas contraire, l'air en ascension devient plus froid que l'air environnant, le mouvement ascendant va s'interrompre et l'atmosphère est alors stable.
+{{< / expand >}}
 {{< /hint >}}
