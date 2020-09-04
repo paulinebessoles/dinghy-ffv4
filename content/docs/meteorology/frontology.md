@@ -20,7 +20,7 @@ On distingue différents types de fronts :
 {{< columns >}}
 ![Front froid](../images/cold-front.png)
 <--->
-Air froid,qui par sa dynamique,rencontre un air plus chaud.
+Air froid, qui par sa dynamique, rencontre un air plus chaud.
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Front chaud" >}}
