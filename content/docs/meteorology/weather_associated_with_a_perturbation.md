@@ -22,16 +22,8 @@ Assez souvent, le centre dépressionnaire peut s’isolersurlesphotographiessat
 **Pour chaque lettre indiquez l'élément correspondant:** 
 ![Question sur la dépression](../images/depression-question.png)
 {{< expand "Réponse">}}
-**A:** Front chaud
-
-**B:** Front froid
-
-**C:** Point triple
-
-**D:** Front Occlus
-
-**E:** Centre dépressionaire
-{{< / expand >}}
+**A:** Front chaud / **B:** Front froid / **C:** Point triple / **D:** Front Occlus / **E:** Centre dépressionaire
+{{< /expand >}}
 {{< /hint >}}
 
 ## Passage d’une perturbation « type » sur les côtes Bretonnes
@@ -55,13 +47,12 @@ La situation s'améliorera alors pour céder sa place au ciel de traîne avec qu
 
 {{< hint warning >}}
 **Reproduisez le schéma de l'arrivée d'une perturbation**
-{{< expand "Réponse">}}
+{{< expand "Réponse" >}}
 {{< columns >}}
 ![Passage des fronts](../images/fronts-passage.png)
 <--->
 ![Perturbation](../images/perturbation.gif)
-
-Plusieures présentations sont possibles
-{{< / expand >}}
 {{< /columns >}}
+Plusieures présentations sont possibles
+{{< /expand >}}
 {{< /hint >}}
