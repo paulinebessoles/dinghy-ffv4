@@ -24,7 +24,8 @@ headless: true
     - Définitions
     - Les écoulements
     - Les forces
-    - Les équilibres- 
+    - Les équilibres
+    - Liaison directe - indirecte
 <br/>
 
 - **Les réglages**
