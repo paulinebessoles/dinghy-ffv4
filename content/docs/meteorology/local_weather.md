@@ -13,11 +13,12 @@ température est à l’origine de la brise.
 
 Certaines brises thermiques peuvent souffler jusqu'à force 6. 
 
+## Brise thermique diurne
 {{< columns >}}
 ![Brise cotière](../images/costal-breeze.png)
 <--->
 Le soleil réchauffe la terre plus vite que la mer. L’air commence à s’élever.
-Cet air peut êtr eentraîné par le vent synoptique d’altitude (de 1500 à 2000m), l’air «chaud»part vers la mer et se refroidit: il descend doucement jusqu'à arriver à la surface de l’eau. Il s'agit d'une **cellule de convection** 
+Cet air peut être entraîné par le vent synoptique d’altitude (de 1500 à 2000m), l’air «chaud»part vers la mer et se refroidit: il descend doucement jusqu'à arriver à la surface de l’eau. Il s'agit d'une **cellule de convection** 
 
 Le front de brise est une zone de calme (convergence de deux vents « opposé »). Il se
 décale vers le rivage.
@@ -61,7 +62,7 @@ On peut utiliser un système de points pour prédire si la brise thermique a de
     * Stable: - 1 points
 {{< /columns >}}
 
-## Les Effets de sites
+## Les effets de sites
 
 Un effet de site est dû à la géographie locale. Il en existe un grand nombre, certains étant des compositions d’effets « élémentaires ». Gardons à l’esprit qu’un vent froid et donc dense «colle»plus aux obstacles qu’un vent chaud (notion de viscosité).L’air stable accentue également les phénomènes d’effets de sites.
 
@@ -96,3 +97,24 @@ Côtes avec relief important, type Côte d’Azur, Corse, Pays Basque): onde de 
 {{< /columns >}}
 {{< /tab >}}
 {{< /tabs >}}
+
+## Le grain
+Le grain est une variation brusque de la vitesse et/ou de la direction du vent. Il est accompagné le plus souvent d’un nuage fortement convectif de type cumulus congestus (Cc) ou cumulonimbus (Cb). En voile légère, il est fortement déconseillé de naviguer sous un Cb. De fortes rafales de direction variables avec pluie voire grêle sont des conditions habituelles sous un grain. De plus sous un Cb, un éclair peut venir frapper votre embarcation.
+
+Les grains se rencontrent essentiellement juste avant le passage d’un front froid et après sonpassage (dans la traîne). Une traîne caractérisée d’active a de très grandes chances d’avoir de nombreux  grains, voir des lignes de grains. Plus les nuages sont développés verticalement, plus les grains sont violents. Plus la base du nuage est basse et plus le grain sera violent.
+Le vent de surface et le vent d’altitude (celui qui pousse le nuage) sont de directions différentes. Le grain aura tendance à avoir une route « plus à droite » que le vent de surface.
+Il faut dissocier le cas d’un grain pluvieux et d’un grain non pluvieux.
+
+### Grain précipitant
+{{< columns >}}
+![Grain précipitant](../images/raining_grain.png)
+<--->
+![Les vents du grain précipitant](../images/raining_grain_wind.png)
+{{< /columns >}}
+
+### Grain non précipitant
+{{< columns >}}
+![Grain non précipitant](../images/non_raining_grain.png)
+<--->
+![Les vents du grain non précipitant](../images/non_raining_grain_wind.png)
+{{< /columns >}}
