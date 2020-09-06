@@ -60,3 +60,39 @@ On peut utiliser un système de points pour prédire si la brise thermique a de
     * Instable: + 2 points
     * Stable: - 1 points
 {{< /columns >}}
+
+## Les Effets de sites
+
+Un effet de site est dû à la géographie locale. Il en existe un grand nombre, certains étant des compositions d’effets « élémentaires ». Gardons à l’esprit qu’un vent froid et donc dense «colle»plus aux obstacles qu’un vent chaud (notion de viscosité).L’air stable accentue également les phénomènes d’effets de sites.
+
+{{< tabs "site-effects" >}}
+{{< tab "Effet de pointe" >}}
+{{< columns >}}
+![Effet de pointe](../images/point-effect.png)
+<--->
+Si le vent vient toucher une pointe sous une direction latérale, il a tendance à diverger de façon radiale. Pour une île, le côté sous le vent est déventé et les côtés extérieurs sont plus ventés (coté bâbord plus venté).
+{{< /columns >}}
+{{< /tab >}}
+{{< tab "Relief et cours d'eau" >}}
+{{< columns >}}
+![Relief et cours d'eau](../images/relief_and_watercourses.png)
+<--->
+Le vent a tendance à suivre globalement la géographie locale. Ainsi sa direction et sa force se trouveront modifié (effet Venturi).
+{{< /columns >}}
+{{< /tab >}}
+{{< tab "Côtes basses" >}}
+ les frottements étant plus importants sur terre que sur mer, le vent au dessus des terres est plus faible. La force de Coriolis est donc moins importante. Le vent sur mer sera donc orienté plus « à droite » que le vent sur terre.
+{{< /tab >}}{{< tab "Côte moyennement élevée" >}}
+{{< columns >}}
+![Côte moyennement élevée](../images/moderately_high_hill.png)
+<--->
+ création d’un « coussin » (vent faible et désordonné).
+{{< /columns >}}
+{{< /tab >}}{{< tab "Côtes élevées" >}}
+{{< columns >}}
+![Côtes élevées](../images/high_hill.png)
+<--->
+Côtes avec relief important, type Côte d’Azur, Corse, Pays Basque): onde de dévent avec possibilité de retour.
+{{< /columns >}}
+{{< /tab >}}
+{{< /tabs >}}
