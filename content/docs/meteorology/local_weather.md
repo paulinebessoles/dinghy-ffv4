@@ -13,7 +13,7 @@ température est à l’origine de la brise.
 
 Certaines brises thermiques peuvent souffler jusqu'à force 6. 
 
-## Brise thermique diurne
+### Brise thermique diurne
 {{< columns >}}
 ![Brise cotière](../images/costal-breeze.png)
 <--->
