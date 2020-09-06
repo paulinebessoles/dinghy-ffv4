@@ -11,7 +11,7 @@ headless: true
     - [Temps associé à une perturbation]({{<relref"/docs/meteorology/weather_associated_with_a_perturbation">}})
     - [La carte isobarique]({{<relref"/docs/meteorology/isobaric_map">}})
     - [Météorologie locale]({{<relref"/docs/meteorology/local_weather">}})
-    - [Les vagues, lahoule]({{<relref"/docs/meteorology/waves_and_swell">}})
+    - [Les vagues, la houle]({{<relref"/docs/meteorology/waves_and_swell">}})
     - [Le bulletin météo]({{<relref"/docs/meteorology/weather_report">}})
 <br/>
 
