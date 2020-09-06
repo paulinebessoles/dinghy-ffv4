@@ -1,3 +1,7 @@
+---
+title: "La carte isobarique"
+weight: 7
+---
 # La carte isobarique
 ## Présentation 
 La carte isobarique représente la situation barométrique actuelle oup révue avec la position des fronts. Il existe plusieurs types de cartes: celle de surface qui représente la pression au niveau de la mer et il existe des cartes d’altitudes (représentant l’altitude géopotentielle à une pression donnée), cependant les cartes d’altitude sont plus complexes à interpréter. Une carte isobarique de surface peut être pointée, c'est-à-dire avec des relevés de vent et pression.
