@@ -35,7 +35,7 @@ Une fois établie, la brise reste habituellement jusqu’au coucher du soleil. 
 {{< hint warning >}}
 **Faites un schéma pour expliquer la brise thermique cotière diurne:**
 {{< expand "Réponse">}}
-![Brise marine shéma](../images/sea-breeze-schema.png)
+![Brise marine shéma](../images/sea-breeze-schema.jpeg)
 {{< /expand >}}
 {{< /hint >}}
 
