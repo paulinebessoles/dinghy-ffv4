@@ -10,7 +10,7 @@ BookToC: false
 Table des matières:
 - [**Météo**]({{<relref"/docs/meteorology">}})    
 - [**Les vents**]({{<relref"/docs/winds">}})
-- **Mécanique du Dériveur**
+- [**Mécanique du Dériveur**]({{<relref"/docs/dinghy_mecanic">}})
 - **Les réglages**
 - **Les chronologies**
 - **Les marées**
