@@ -20,9 +20,8 @@ headless: true
     - [Passage d’une risée]({{<relref"/docs/winds/gust_of_wind">}})
 <br/>
 
-- **Mécanique du Dériveur**
-    - Définitions
-    - Les écoulements
+- [**Mécanique du Dériveur**]({{<relref"/docs/dinghy_mecanic">}})
+    - [Les écoulements]({{<relref"/docs/dinghy_mecanic/flows">}})
     - Les forces
     - Les équilibres
     - Liaison directe - indirecte
