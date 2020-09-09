@@ -22,7 +22,7 @@ headless: true
 
 - [**Mécanique du Dériveur**]({{<relref"/docs/dinghy_mecanic">}})
     - [Les écoulements]({{<relref"/docs/dinghy_mecanic/flows">}})
-    - Les forces
+    - [Les forces]({{<relref"/docs/dinghy_mecanic/strengths">}})
     - Les équilibres
     - [Liaisons directes - indirectes]({{<relref"/docs/dinghy_mecanic/direct-indirect-links">}})
 <br/>

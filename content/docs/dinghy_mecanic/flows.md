@@ -1,6 +1,6 @@
 ---
 title: "Mécanique du dériveur"
-weight: 1
+weight: 2
 ---
 # Les écoulements
 Un écoulement est le déplacement d’un fluide. Une ligne de courant est la matérialisation du déplacement du fluide dans un écoulement. 
