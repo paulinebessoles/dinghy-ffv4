@@ -24,7 +24,7 @@ headless: true
     - [Les écoulements]({{<relref"/docs/dinghy_mecanic/flows">}})
     - Les forces
     - Les équilibres
-    - Liaison directe - indirecte
+    - [Liaisons directes - indirectes]({{<relref"/docs/dinghy_mecanic/direct-indirect-links">}})
 <br/>
 
 - **Les réglages**
