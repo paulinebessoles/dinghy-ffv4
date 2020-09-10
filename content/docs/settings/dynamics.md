@@ -2,9 +2,9 @@
 title: "Les réglages dynamiques"
 weight: 1
 ---
-## Les réglages dynamiques
+# Les réglages dynamiques
 
-### L'écoute
+## L'écoute
 Relâchons tous les réglages sauf celui de la patte d'oie qui restera bien tendu et celui de la bordure qui sera moyennement pris, et plaçons la bôme perpendiculaire au bateau.
 
 La prise de l'écoute a deux effets bien distincts :
@@ -18,7 +18,7 @@ La prise de l'écoute a deux effets bien distincts :
 {{< /columns >}}
 
 Ce cintre du mât résorbe le rond de guindant et aplatit la voile. La tension exercée entre la têtière et le point d'écoute de la voile "ferme la chute", c'est à dire s'oppose à son vrillage.
-### Le hale-bas
+## Le hale-bas
 Son action est proche de l'effet 2 de l'écoute. En rapprochant ses 2 insertions (le 1/4 avant de la bôme et la partie du mât proche de l'étambrai), il exerce :
 
 * une tension verticale qui fait "fermer la chute" et cintrer le mât ainsi que la bôme. Ceci provoque l'aplatissement de la voile et la réduction de son vrillage.
@@ -28,7 +28,7 @@ Son action est proche de l'effet 2 de l'écoute. En rapprochant ses 2 insertions
 
 Mais le hâle-bas a un intérêt spécifique : outre qu'il autorise un accroissement de cintrage du mât, il permet de conserver un profil donné de la voile lorsqu'on fait varier l'angle voile-bateau par action sur l'écoute. Il s'agit là d'une condition essentielle à la régulation efficace de la surpuissance.
 
-### Le cunningham
+## Le cunningham
 
 Il exerce une tension verticale sur le guindant de la voile. Son premier intérêt est donc de pouvoir corriger une sous-tension relative du guindant par rapport à la chute, sous tension génératrice de plis caractéristiques dans la voile.
 
@@ -46,13 +46,13 @@ détendre relativement la chute par une surtension du guindant. Cela permet à l
 ![Réglage du cunningham 2](../images/cunningham_2.gif)
 {{< /columns >}}
 
-### La bordure
+## La bordure
 Le réglage de bordure permet de doser le creux général que l'on donne à la voile et donc la puissance de celle-ci. Il existe toutefois une limite au-delà de laquelle détendre la bordure cesse d'augmenter la puissance et transforme la voile en "sac", perturbant ainsi les écoulements de l'air autour du profil.
 
 Cette limite peut s'objectiver en mesurant la distance maximale séparant la bôme de la voile sur une perpendiculaire aux deux. De nombreux laseristes considèrent qu'elle est atteinte lorsque le pouce et l'auriculaire, écartés au maximum, joignent ces deux points (soit environ 20 cm).
 
 ![Réglage de la bordure](../images/bordure.svg)
-### La patte d'oie
+## La patte d'oie
 En association avec le hale-bas, elle pallie l'absence de chariot d'écoute en maintenant la bôme excentrée au près.
 
 En effet, les dériveurs solitaires, du fait de l'absence de foc, ne tolèrent pas une centration excessive de la grand-voile.
@@ -64,7 +64,7 @@ Pour remplir efficacement ce rôle, il importe que la patte d'oie soit fortement
 ![Réglage de la patte d'oie 2](../images/patte_oie_2.gif)
 
 Toutefois, un excès de tension diminue la sensibilité de la barre et gêne le passage de la poulie lors du virement de bord, en particulier dans le petit temps. Aussi, il y a intérêt à détendre légèrement la patte d'oie si ces symptômes apparaissent et perturbent la conduite du bateau. L'utilisation d'un bout en kevlar permet d'obtenir le même effet (bôme excentrée et basse) avec un étarquage moindre.
-### La dérive 
+## La dérive 
 
 ![Réglage de la dérive](../images/derive.svg)
 
@@ -78,7 +78,7 @@ Les deux défauts les plus couramment observés chez les stagiaires:
 * Relever trop de dérive aux allures portantes, lors de l'empannage, la bôme vient en butée sur la partie supérieure et, s'il y a du vent c'est le désalage.
 * Ne pas enfoncer la dérive à fond! Il faut utiliser toute la surface antidérive possible, ne vous privez pas de 2 centimètres salutaires. 
 
-### La sangle de rappel
+## La sangle de rappel
 De nombreux laseristes optent pour une sangle de rappel réglable. Ce réglage est très important car il permet de moduler le compromis confort/couple de rappel nécessaire en fonction de l'allure et des conditions de vent et de mer rencontrés.
 
 Nous présentons le montage le plus courant:
