@@ -11,7 +11,7 @@ Table des matières:
 - [**Météo**]({{<relref"/docs/meteorology">}})    
 - [**Les vents**]({{<relref"/docs/winds">}})
 - [**Mécanique du Dériveur**]({{<relref"/docs/dinghy_mecanic">}})
-- **Les réglages**
+- [**Les réglages**]({{<relref"/docs/settings">}})
 - **Les chronologies**
 - **Les marées**
 - **Balisage et carte**

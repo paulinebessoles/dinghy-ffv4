@@ -1,6 +1,6 @@
 ---
 title: "Liaisons directes et indirectes"
-weight: 2
+weight: 4
 ---
 # Liaisons directes et indirectes
 
