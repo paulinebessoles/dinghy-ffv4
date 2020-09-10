@@ -34,8 +34,8 @@ headless: true
 <br/>
 
 - [**Les chronologies**]({{<relref"/docs/chronologies">}})
-    - Abbattée à la bouée
-    - Oloffée à la bouée
+    - [Abbattée à la bouée]({{<relref"/docs/chronologies/abattee">}})
+    - [Oloffée à la bouée]({{<relref"/docs/chronologies/oloffee">}})
     - [Resalage]({{<relref"/docs/chronologies/resalage">}})
     - Prise de mât
     - Remorquage après un démâtage 
