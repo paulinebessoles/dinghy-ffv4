@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="900px" height="400px" viewBox="0 0 900 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
-    <title>Artboard</title>
+    <title>bordure</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <rect id="path-1" x="2.24594595" y="9.93847294" width="6.89189189" height="11.5948851"></rect>
@@ -10,13 +10,13 @@
         <rect id="path-4" x="2.24594595" y="59.6308377" width="6.89189189" height="11.5948851"></rect>
     </defs>
     <g id="bordure" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard">
-            <g id="Group-3" transform="translate(24.000000, 77.000000)">
+        <g id="Group-3">
+            <g transform="translate(24.000000, 77.000000)">
                 <text id="Voile" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
                     <tspan x="369" y="19">Voile</tspan>
                 </text>
                 <path d="M79,154 C119.595975,86.6666667 211.978258,53 356.146848,53 C500.315439,53 639.933156,86.6666667 775,154" id="Path-2" stroke="#979797" stroke-width="6"></path>
-                <rect id="Rectangle" fill="#D8D8D8" x="99" y="142" width="753" height="24"></rect>
+                <rect id="Rectangle" fill="#D8D8D8" x="88" y="142" width="764" height="24"></rect>
                 <circle id="Oval" fill="#AEAEAE" cx="79.5" cy="154.5" r="20.5"></circle>
                 <text id="Mât" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
                     <tspan x="0" y="242">Mât</tspan>

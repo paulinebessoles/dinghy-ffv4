@@ -23,28 +23,42 @@ Son action est proche de l'effet 2 de l'écoute. En rapprochant ses 2 insertions
 
 * une tension verticale qui fait "fermer la chute" et cintrer le mât ainsi que la bôme. Ceci provoque l'aplatissement de la voile et la réduction de son vrillage.
 * une compression de la bôme sur le mât, qui peut faciliter le cintre du mât dans sa partie basse.
+* il permet de conserver un profil donné de la voile lorsqu'on fait varier l'angle voile-bateau par action sur l'écoute, il s'agit là d'une condition essentielle à la régulation efficace de la surpuissance.
 
-![Réglage du halebas](../images/halebas.gif)
+{{< columns >}}
+![L'action du halebas](../images/halebas.svg)
+<--->
+![L'action du halebas vue_arriere](../images/halebas_vue_arriere.svg)
+{{< /columns >}}
+Au portant le halebas joue un rôle spécifique puisqu'il permet de retenir la bôme vers le bas lors de la contre-gîte, il conserve ainsi de la puissance, et génère de la stabilité en évitant l'effet "Accordéon".
 
-Mais le hâle-bas a un intérêt spécifique : outre qu'il autorise un accroissement de cintrage du mât, il permet de conserver un profil donné de la voile lorsqu'on fait varier l'angle voile-bateau par action sur l'écoute. Il s'agit là d'une condition essentielle à la régulation efficace de la surpuissance.
+{{< columns >}}
+![Le laser au portant](../images/laser-portant.jpg)
+<--->
+![L'action du halebas au portant](../images/halebas_portant.svg)
+{{< /columns >}}
 
 ## Le cunningham
 
-Il exerce une tension verticale sur le guindant de la voile. Son premier intérêt est donc de pouvoir corriger une sous-tension relative du guindant par rapport à la chute, sous tension génératrice de plis caractéristiques dans la voile.
+Il exerce une tension verticale sur le guindant de la voile. 
 
-En effet, faisons l'expérience suivante : cunningham relâché, souquons le hale-bas ou bordons l'écoute de façon à rapprocher les deux poulies arrières l'une de l'autre. Aussitôt, des plis partant du guindant et convergeant vers le point d'écoute apparaissent. Etarquons légèrement le cunningham, ils s'effacent.
-
-Mais là n'est pas le seul intérêt du cunningham. Ses fonctions essentielles sont :
-
-cintrer le mât en complément du hale-bas ou de l'écoute. Lorsque le mât est cintré, la tension verticale due au réglage du cunningham est légèrement déportée vers l'arrière du mât. Cette tension, par "effet d'arc", amplifie donc le cintre du mât et soulage sensiblement celle due au hale-bas et/ou à l'écoute
-avancer le creux maxi de la voile ou, pour le moins, empêcher qu'il ne recule. En effet, lorsque le vent forcit, le creux a tendance à se déplacer vers l'arrière, ce qui a un effet déplorable sur l'orientation de la force aérodynamique. le cunningham permet, en ramenant du tissu vers l'avant, de recentrer le creux.
-détendre relativement la chute par une surtension du guindant. Cela permet à la partie supérieure de la voile de "s'effacer" dans la risée, diminuant ainsi la force aérodynamique. Ce vrillage constitue dans une certaine mesure une autorégulation des surventes par le gréement.
+Son premier intérêt est donc de pouvoir corriger tension du guindant plus faible par rapport à la chute. UN bon repère est la présence caractéristique de plis en patte d'oie dans la voile.
+Afin de remédier à ces plis imperformants, il convient de reprendre le cunningham jusqu'à les effacer.
 
 {{< columns >}}
-![Réglage du cunningham 1](../images/cunningham.gif)
+![Pas d'action sur le cunningham](../images/cunningham_no_action.svg)
 <--->
-![Réglage du cunningham 2](../images/cunningham_2.gif)
+![Action sur le cunningham](../images/cunningham_action.svg)
 {{< /columns >}}
+
+Mais là n'est pas le seul intérêt du cunningham. Ses fonctions essentielles sont :
+* Cintrer le mât en complément du hale-bas ou de l'écoute:
+    * Lorsque le mât est cintré, la tension verticale due au réglage du cunningham est légèrement déportée vers l'arrière du mât. 
+    * Cette tension, par "effet d'arc", amplifie donc le cintre du mât et soulage sensiblement celle due au hale-bas et/ou à l'écoute
+* Avancer le creux de la voile:  
+    * Lorsque le vent forcit, le creux a tendance à se déplacer vers l'arrière, le cunningham permet, en ramenant du tissu vers l'avant, de recentrer le creux.
+* Détendre la chute par une surtension du guindant:
+    * Cela permet à la partie supérieure de la voile de "s'effacer" dans la risée, diminuant ainsi la force aérodynamique. Ce vrillage constitue dans une certaine mesure une autorégulation des surventes par le gréement.
 
 ## La bordure
 Le réglage de bordure permet de doser le creux général que l'on donne à la voile et donc la puissance de celle-ci. Il existe toutefois une limite au-delà de laquelle détendre la bordure cesse d'augmenter la puissance et transforme la voile en "sac", perturbant ainsi les écoulements de l'air autour du profil.
@@ -55,15 +69,17 @@ Cette limite peut s'objectiver en mesurant la distance maximale séparant la bô
 ## La patte d'oie
 En association avec le hale-bas, elle pallie l'absence de chariot d'écoute en maintenant la bôme excentrée au près.
 
-En effet, les dériveurs solitaires, du fait de l'absence de foc, ne tolèrent pas une centration excessive de la grand-voile.
-
-![Réglage de la patte d'oie](../images/patte_oie.gif)
-
 Pour remplir efficacement ce rôle, il importe que la patte d'oie soit fortement étarquée. A défaut, la bôme s'élève et rentre vers le centre du bateau ; ainsi lorsque le réglage de patte d'oie est détendu, la poulie guidée par celui-ci se trouve rehaussée. La tension verticale qu'exerce l'écoute, en rapprochant cette poulie à celle fixée sur l'extrémité arrière de la bôme est alors diminuée.
-
-![Réglage de la patte d'oie 2](../images/patte_oie_2.gif)
-
 Toutefois, un excès de tension diminue la sensibilité de la barre et gêne le passage de la poulie lors du virement de bord, en particulier dans le petit temps. Aussi, il y a intérêt à détendre légèrement la patte d'oie si ces symptômes apparaissent et perturbent la conduite du bateau. L'utilisation d'un bout en kevlar permet d'obtenir le même effet (bôme excentrée et basse) avec un étarquage moindre.
+
+{{< columns >}}
+![Patte d'oie relachée](../images/patte_oie_relachee.svg)
+<--->
+![Patte d'oie reprise](../images/patte_oie_reprise.svg)
+{{< /columns >}}
+
+Pour régler la patte d'oie, on l'étarque au maximum et si elle gêne le passage de la poulie, on la choque légèrement jusqu'à disparition du problème. 
+
 ## La dérive 
 
 ![Réglage de la dérive](../images/derive.svg)
