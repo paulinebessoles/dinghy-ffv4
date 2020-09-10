@@ -33,15 +33,10 @@ headless: true
     - [Position de l'équipage]({{<relref"/docs/settings/positions">}})
 <br/>
 
-- **Les chronologies**
-    - Descendre et monter les appendices
-    - La cape
-    - Marche arrière
-    - Départ de plage
-    - Arrivée de plage
-    - Virement de bord 
-    - Empannage
-    - Resalage
+- [**Les chronologies**]({{<relref"/docs/chronologies">}})
+    - Abbattée à la bouée
+    - Oloffée à la bouée
+    - [Resalage]({{<relref"/docs/chronologies/resalage">}})
     - Prise de mât
     - Remorquage après un démâtage 
     - Homme à la mer
