@@ -52,7 +52,7 @@ headless: true
     - Marques latérales
     - Cardinales
     - Autres marques
-    La cartemarine
+    - La cartemarine
 <br/>
 
 - **Privilèges de barre et régate** 
