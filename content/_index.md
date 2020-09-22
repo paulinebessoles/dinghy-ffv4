@@ -15,7 +15,7 @@ Table des matières:
 - [**Les chronologies**]({{<relref"/docs/chronologies">}})
 - **Les marées**
 - **Balisage et carte**
-- **Privilèges de barre et régate** 
+- [**Privilèges de barre et régate**]({{<relref"/docs/regatta">}})
 - **Annexes**
 
 

@@ -55,9 +55,10 @@ headless: true
     - La cartemarine
 <br/>
 
-- **Privilèges de barre et régate** 
-    - Les privilèges de barres
-    - Régate
+- [**Privilèges de barre et régate**]({{<relref"/docs/regatta">}})
+    - Les privilèges de barre
+    - Notion de cadre
+    - [Prendre un bon départ]({{<relref"/docs/regatta/getting_off_to_a_good_start">}})
 <br/>
 
 - **Annexes**
