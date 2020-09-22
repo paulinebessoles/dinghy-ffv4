@@ -12,7 +12,7 @@ Le virement est une manoeuvre stratégique en dériveur, il peut vous faire perd
 Il existe le virement classique et le virement bascule, ce dernier est reservé au vent plus léger. La technique du virement doit être ajusté en fonction du vent, un bon entrainement sur cette manoeuvre est toujours payante.
 
 ### Virement classique
-Sur cet vidéo nous pouvons voir **Marit Bouwmeester**, plusieures fois championne du monde et médailles d'or olympique illustrer la technique du virement.
+Sur cette vidéo nous pouvons voir **Marit Bouwmeester**, plusieures fois championne du monde et médailles d'or olympique illustrer la technique du virement.
 
 {{< youtube exJ0s8ilD1U >}}
 
@@ -37,7 +37,7 @@ Le virement bascule permet de virer dans le vent léger.
 5. Régler l'écoute
 
 ## Empannage
-L'empannage est une manoeuvre souvent redouté par le débutant, il nécessite de l'engagement et ne pardonne pas l'erreur. Souvent, une contre-gîte trop appuyée ou un roulis ryhtmique trop marqué se solde par un plongeon. Une bonne coordiantion dans cette maoeuvre permet d'en tirer avantage.
+L'empannage est une manoeuvre souvent redoutée par le débutant, il nécessite de l'engagement et ne pardonne pas l'erreur. Souvent, une contre-gîte trop appuyée ou un roulis ryhtmique trop marqué se solde par un plongeon. Une bonne coordination dans cette maoeuvre permet d'en tirer avantage.
 
 ### Empannage classique
 Sur cette vidéo nous pouvons voir **Nick Thompson**, deux fois champion du monde.
@@ -52,7 +52,7 @@ Sur cette vidéo nous pouvons voir **Nick Thompson**, deux fois champion du mond
 6. Changer de mains
 
 ### Empannage bascule
-L'empannage bascule permet de conserrtver de la vitesse dans un vent léger.
+L'empannage bascule permet de conserver de la vitesse dans un vent léger.
 
 {{< youtubestart BR6ec_nPWbw 46 >}}
 
