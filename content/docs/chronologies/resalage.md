@@ -15,8 +15,8 @@ Le maître mot du ressalage est la temporisation: il faut être rapide, mais pas
 ## Ressaler
 - Choquer le halebas et l'écoute en grand.
 - Mettre le bateau face au vent en faisant un pivot à l'aide du liston et de la dérive.
-- Unefoislebateaufaceauvent, faites pivot avec la dérive. En cas de vent fort, il n'est pas rare que le bateau vous tombe dessus: attention à la tête.
-- Attrapper l'intérieur du cockpit et hisser vous le plus à plat possible.
+- Une fois le bateau face au vent, faites pivot avec la dérive. En cas de vent fort, il n'est pas rare que le bateau vous tombe dessus: attention à la tête.
+- Attraper l'intérieur du cockpit et hissez vous le plus à plat possible.
 - Se mettre à la cape puis ranger le bateau.
 - Faire un bilan : casse de matériel et état physique de l’équipage. Reprendre la navigation ou rentrer selon.
 
