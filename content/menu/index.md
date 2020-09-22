@@ -34,6 +34,7 @@ headless: true
 <br/>
 
 - [**Les chronologies**]({{<relref"/docs/chronologies">}})
+    - [Virement et Empennage]({{<relref"/docs/chronologies/tacking_and_gybing">}})
     - [Abbattée à la bouée]({{<relref"/docs/chronologies/abattee">}})
     - [Oloffée à la bouée]({{<relref"/docs/chronologies/oloffee">}})
     - [Resalage]({{<relref"/docs/chronologies/resalage">}})
