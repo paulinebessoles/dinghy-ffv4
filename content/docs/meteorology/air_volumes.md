@@ -13,7 +13,7 @@ S’il ne se déplace pas, ou peu, verticalement, il est dit stable. Ainsi, si 
 température est supérieure à celle de son environnement. Dès que sa température atteint celle de son environnement, il stoppe son ascension.
 
 ## Les masses d'air de l'hémisphère Nord
-![Les masses d'air](../images/air-volumes.png)
+{{< figure caption="Les masses d'air" src="../images/air-volumes.png" >}}
 
 {{< tabs "air-volumes" >}}
 {{< tab "Arctique" >}}

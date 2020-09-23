@@ -8,12 +8,12 @@ weight: 2
 
 ### Composante de la force vélique
 La force aérodynamique ou force vélique est la somme d’une infinité de «petites forces» élémentaires.
-![Force aéro](../images/force_aero.png)
+{{< figure caption="Force aéro" src="../images/force_aero.png" >}}
 La force résultante s’applique au maximum du creux et est quasiment perpendiculaire à la corde (sauf pour les angles d’incidence inférieure à 25°).
 
 ### Rendement de la voile
 {{< columns >}}
-![Polaire vélique](../images/polaire_velique.png)
+{{< figure caption="Polaire vélique" src="../images/polaire_velique.png" >}}
 <--->
 Les angles qui parcourent la courbe sont ceux du vent apparent par rapport à la route du voilier.
 {{< /columns >}}
@@ -34,18 +34,18 @@ Son intérêt est de nous montrer la plage d’utilisation du vent apparent:
 L’eau est un fluide donc tout ce que nous avons énoncé auparavant reste valable. Il ya donc,comme pour la voile, une force hydrodynamique. On la décompose habituellement en force antidérive et en traînée.
 Le safran, de dimension importante, est aussi un élément antidérive.
 {{< columns >}}
-![Force hydro vue de dessus](../images/force_hydro_dessus.svg)
+{{< figure caption="Force hydro vue de dessus" src="../images/force_hydro_dessus.svg" >}}
 <--->
-![Force hydro vue de derrière](../images/force_hydro_derriere.svg)
+{{< figure caption="Force hydro vue de derrière" src="../images/force_hydro_derriere.svg" >}}
 {{< /columns >}}
 
 ## Poids et poussée d’Archimède
 Le poids est la masse du bateau et de ses équipiers soumis à la gravité terrestre. 
 
 {{< columns >}}
-![Action de la gravité](../images/gravite.svg)
+{{< figure caption="Action de la gravité" src="../images/gravite.svg" >}}
 <--->
-![Poussée d'archimède](../images/archimede.svg)
+{{< figure caption="Poussée d'archimède" src="../images/archimede.svg" >}}
 {{< /columns >}}
 * Le poids est vertical et s’applique au centre de gravité ({{< katex >}}CG{{< /katex >}}) du système: bateau + équipage.
 * La poussée d’Archimède s’applique au centre de carène ({{< katex >}}CC{{< /katex >}}): centre de gravité des parties immergées.

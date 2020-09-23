@@ -7,9 +7,9 @@ weight: 6
 
 ## Vue satellite d'une dépression
 {{< columns >}}
-![Front froid](../images/satellite-view-depression.png)
+{{< figure caption="Front froid" src="../images/satellite-view-depression.png" >}}
 <--->
-![Perturbation vue du haut](../images/perturbation-skyview.png)
+{{< figure caption="Perturbation vue du haut" src="../images/perturbation-skyview.png" >}}
 {{< /columns >}}
 
 Très souvent, la structure nuageuse d’une perturbation permet de distinguer plusieurs parties. La tête se situe en avant de la perturbation.
@@ -20,7 +20,7 @@ Assez souvent, le centre dépressionnaire peut s’isolersurlesphotographiessat
 
 {{< hint warning >}}
 **Pour chaque lettre indiquez l'élément correspondant:** 
-![Question sur la dépression](../images/depression-question.png)
+{{< figure caption="Question sur la dépression" src="../images/depression-question.png" >}}
 {{< expand "Réponse">}}
 **A:** Front chaud / **B:** Front froid / **C:** Point triple / **D:** Front Occlus / **E:** Centre dépressionaire
 {{< /expand >}}
@@ -28,7 +28,7 @@ Assez souvent, le centre dépressionnaire peut s’isolersurlesphotographiessat
 
 ## Passage d’une perturbation « type » sur les côtes Bretonnes
 ### Vue de haut
-![Schéma dépression vue de haut](../images/sky-view-depression.png)
+{{< figure caption="Schéma dépression vue de haut" src="../images/sky-view-depression.png" >}}
 Les nuages associés à la dépression sont dans l'ordre:
 1. Les Cirrus (**CI**) et Cirostatus (**CS**)
 2. Altostratus (**As**)
@@ -39,7 +39,7 @@ Les nuages associés à la dépression sont dans l'ordre:
 7. Cumulus (**Cu**)
 
 ### Schéma du passage d'une perturbation
-![Passage des fronts](../images/fronts-passage.png)
+{{< figure caption="Passage des fronts" src="../images/fronts-passage.png" >}}
 Pour un observateur placé sur la droite du schéma, le plafond nuageux va s'affaisser et devenir de plus en plus sombre s'accompagnant de forte pluie. 
 Puis dans un second temps se dégager et laisser place à un ciel peuplé de stratocumulus ou de stratus ainsi que quelques averses.
 Ce répit sera de courte durée et cédera sa place à des vents forts ainsi que de violentes averses au passage du cumulonimbus. Des orages sont possibles.
@@ -49,9 +49,9 @@ La situation s'améliorera alors pour céder sa place au ciel de traîne avec qu
 **Reproduisez le schéma de l'arrivée d'une perturbation**
 {{< expand "Réponse" >}}
 {{< columns >}}
-![Passage des fronts](../images/fronts-passage.png)
+{{< figure caption="Passage des fronts" src="../images/fronts-passage.png" >}}
 <--->
-![Perturbation](../images/perturbation.gif)
+{{< figure caption="Perturbation" src="../images/perturbation.gif" >}}
 {{< /columns >}}
 Plusieures présentations sont possibles
 {{< /expand >}}

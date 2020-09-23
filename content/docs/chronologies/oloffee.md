@@ -6,7 +6,7 @@ weight: 3
 
 ## Chronologie
 {{< columns >}}
-![Oloffée à la bouée](../images/oloffee.png)
+{{< figure caption="Oloffée à la bouée" src="../images/oloffee.png" >}}
 <--->
 1. Descente :
 * Empanner pour arriver sous la bonne amure

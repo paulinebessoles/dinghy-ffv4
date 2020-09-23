@@ -5,7 +5,7 @@ BookToC: false
 ---
 # Cours théorique Niveau 4 FFV
 
-![laser solo en compétition au portugal](images/laser-solo.jpg)
+{{< figure caption="Laséristes en compétition au portugal" src="images/laser-solo.jpg" >}}
 
 Table des matières:
 - [**Météo**]({{<relref"/docs/meteorology">}})    
