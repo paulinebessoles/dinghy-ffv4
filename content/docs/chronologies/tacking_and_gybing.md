@@ -7,12 +7,12 @@ weight: 3
 Le virement et l'empannage sont les manoeuvres élémentaires du dériveur. On différencie les manoeuvres classiques et les manoeuvres bascules. La bascule consiste en l'exagération de ce qui se fait naturellement par vent fort. Il vous suffit de reproduire ce mouvement.
 
 ## Virement
-Le virement est une manoeuvre stratégique en dériveur, il peut vous faire perdre ou gagner des places. Souvent lors d'une bascule de vent, la bonne execution d'un virement peut vous donner un avantage sur vos concurrents.
+Le virement est une manoeuvre stratégique en dériveur, il peut vous faire perdre ou gagner des places. Souvent lors d'une bascule de vent, la bonne exécution d'un virement peut vous donner un avantage sur vos concurrents.
 
-Il existe le virement classique et le virement bascule, ce dernier est reservé au vent plus léger. La technique du virement doit être ajusté en fonction du vent, un bon entrainement sur cette manoeuvre est toujours payante.
+Il existe le virement classique et le virement bascule, ce dernier est réservé au vent plus léger. La technique du virement doit être ajustée en fonction du vent, un bon entraînement sur cette manoeuvre est toujours payante.
 
 ### Virement classique
-Sur cette vidéo nous pouvons voir **Marit Bouwmeester**, plusieures fois championne du monde et médailles d'or olympique illustrer la technique du virement.
+Sur cette vidéo nous pouvons voir **Marit Bouwmeester**, plusieurs fois championne du monde et médaille d'or olympique illustrer la technique du virement.
 
 {{< youtube exJ0s8ilD1U >}}
 
