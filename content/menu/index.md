@@ -23,14 +23,14 @@ headless: true
 - [**Mécanique du Dériveur**]({{<relref"/docs/dinghy_mecanic">}})
     - [Les écoulements]({{<relref"/docs/dinghy_mecanic/flows">}})
     - [Les forces]({{<relref"/docs/dinghy_mecanic/strengths">}})
-    - [Les équilibres]({{<relref"/docs/dinghy_mecanic/balance">}}) (En cours)
+    - [Les équilibres (En cours)]({{<relref"/docs/dinghy_mecanic/balance">}})
     - [Liaisons directes - indirectes]({{<relref"/docs/dinghy_mecanic/direct-indirect-links">}})
 <br/>
 
 - [**Les réglages**]({{<relref"/docs/settings">}})
     - [Réglages statiques]({{<relref"/docs/settings/statics">}})
     - [Réglages dynamiques]({{<relref"/docs/settings/dynamics">}})
-    - [Position de l'équipage]({{<relref"/docs/settings/positions">}}) (En cours)
+    - [Position de l'équipage (En cours)]({{<relref"/docs/settings/positions">}})
 <br/>
 
 - [**Les chronologies**]({{<relref"/docs/chronologies">}})
