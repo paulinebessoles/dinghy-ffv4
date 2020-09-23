@@ -13,10 +13,11 @@ Table des matières:
 - [**Mécanique du Dériveur**]({{<relref"/docs/dinghy_mecanic">}})
 - [**Les réglages**]({{<relref"/docs/settings">}})
 - [**Les chronologies**]({{<relref"/docs/chronologies">}})
-- **Les marées**
-- **Balisage et carte**
+- **Les marées** (En cours)
+- **Balisage et carte** (En cours)
 - [**Privilèges de barre et régate**]({{<relref"/docs/regatta">}})
-- **Annexes**
 
 
 Ce cours théorique s'inspire du travail d'Antoine Rogues pour l'[ex niveau 5 ffv en catamaran](http://glenans.arogues.org/niveau5.pdf)
+
+Ce support ne saurait remplacer un apprentissage auprès de moniteurs compétents, il est le fruit d'opinions qui doivent être critiquées, remises en question et enrichies de vos expériences.

@@ -43,27 +43,27 @@ headless: true
     - [Homme à la mer]({{<relref"/docs/chronologies/man_overboard">}})
 <br/>
 
-- **Les marées**
-    - Définitions Phénomène de marée 
-    - Calcul de la hauteur d’eau
+- **Les marées** (En cours)
+    - Définitions Phénomène de marée (En cours)
+    - Calcul de la hauteur d’eau (En cours)
 <br/>
 
-- **Balisage et carte**
-    - Marques latérales
-    - Cardinales
-    - Autres marques
-    - La cartemarine
+- **Balisage et carte** (En cours)
+    - Marques latérales (En cours)
+    - Cardinales (En cours)
+    - Autres marques (En cours)
+    - La carte marine (En cours)
 <br/>
 
 - [**Privilèges de barre et régate**]({{<relref"/docs/regatta">}})
-    - Les privilèges de barre
-    - Notion de cadre
+    - Les privilèges de barre (En cours)
+    - Notion de cadre (En cours)
     - [Prendre un bon départ]({{<relref"/docs/regatta/getting_off_to_a_good_start">}})
 <br/>
 
 - **Annexes**
-    - Reconnaître les nuages
+    - Reconnaître les nuages (En cours)
     - [Les fronts]({{<relref"/docs/annexes/annexe-fronts">}})
-    - Du bon usage d’un bateau à moteur
-    - Mouiller son BIB sans frayeurs
+    - Du bon usage d’un bateau à moteur (En cours)
+    - Mouiller son BIB sans frayeurs (En cours)
 <br/>
