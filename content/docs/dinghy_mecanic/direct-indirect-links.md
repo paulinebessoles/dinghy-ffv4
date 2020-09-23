@@ -73,3 +73,5 @@ stateDiagram
 ![Virement bascule](../images/virement-bascule.jpeg)
 
 Le virement bascule et l'empannage sont la première application du poids comme liaisons indirectes, en faisant giter le bateau, on force sa direction en limitant la trainée du safran
+
+{{< navigation previous="/docs/dinghy_mecanic/balance" parent="/docs/dinghy_mecanic" >}}

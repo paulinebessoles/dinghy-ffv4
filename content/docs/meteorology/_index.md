@@ -70,4 +70,5 @@ La troposphère est la seule couche atmosphérique qui nous intéresse. En ef
 Les caractéristiques de la troposphère sont :
 - Epaisseur variable autourde 12km. Varie en fonction de la saison et du lieu : 8 km aux pôles jusqu'à 15 km à l’équateur.
 - Baisse régulière de la température : 6,5 ° C par km.
-  
+
+{{< navigation parent="/" next="/docs/meteorology/general_circulation" >}}

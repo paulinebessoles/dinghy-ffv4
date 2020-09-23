@@ -66,3 +66,5 @@ L’échelle de Beaufort est fonction de la force du vent. Anciennement, c’e�
 Force 6
 {{< / expand >}}
 {{< /hint >}}
+
+{{< navigation previous="/docs/meteorology/general_circulation" parent="/docs/meteorology" next="/docs/meteorology/air_volumes" >}}

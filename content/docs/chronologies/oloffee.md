@@ -28,3 +28,4 @@ Sur cette vidéo on peut voir la stratégie du passage à la bouée sous le vent
 
 {{< youtubestart N8UwkLrcwJ8 4 >}}
 
+{{< navigation previous="/docs/chronologies/abattee" parent="/docs/chronologies" next="/docs/chronologies/resalage" >}}

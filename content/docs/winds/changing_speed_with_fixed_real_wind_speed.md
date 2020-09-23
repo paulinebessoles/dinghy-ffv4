@@ -48,3 +48,5 @@ Dans l'ensemble, l'allure la plus rapide est le bon plein.
 
 Le bateau ne remonte pas mieux qu’à 30° du vent et au vent arrière sa vitesse est d'environ 60% du vent réel.
 {{< /columns >}}
+
+{{< navigation parent="/docs/meteorology" next="/docs/winds/gust_of_wind" >}}

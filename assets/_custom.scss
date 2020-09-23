@@ -10,3 +10,10 @@
     flex-direction: column;
   }
 }
+
+.navigation{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 2rem 0;
+}

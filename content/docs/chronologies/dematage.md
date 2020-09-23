@@ -27,3 +27,5 @@ Commencer le remorquage :
 - Si le vent est fort: naviguer à vitesse réduite. Le matériel n’est pas fait pour encaisser ce genre d'efforts à répétions.
 - En règle générale, toutes les manœuvres sont inchangées, il faut prendre plus d’espace pour les faire et être plus franc sur les relances.
 - En cas d’arrivée de plage dans les rouleaux, décrocher la remorque avant et le bateau remorqué finir à la pagaie.
+
+{{< navigation previous="/docs/chronologies/mast_grabbing" parent="/docs/chronologies" next="/docs/chronologies/man_overboard" >}}

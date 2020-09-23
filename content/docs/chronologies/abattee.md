@@ -27,3 +27,5 @@ Penser à serrer la bouée à la manière d'un pilote de formule 1: avec une ent
 Sur cette vidéo on peut voir la stratégie du passage à la bouée au vent, on constate que le placement et l'angle du virage sont primordiales pour à la fois conserver la vitesse et disposer d'air frais.
 
 {{< youtubestart DhiWPdatgOQ 6 >}}
+
+{{< navigation previous="/docs/chronologies/tacking_and_gybing" parent="/docs/chronologies" next="/docs/chronologies/oloffee" >}}

@@ -161,3 +161,5 @@ Il est dangereux de naviguer sous un cumulonimbus car il pêut y avoir de fortes
 Juste avant le passage d’un front froid et après son passage (dans la traîne).
 {{< /expand >}}
 {{< /hint >}}
+
+{{< navigation previous="/docs/meteorology/isobaric_map" parent="/docs/meteorology" next="/docs/meteorology/waves_and_swell" >}}

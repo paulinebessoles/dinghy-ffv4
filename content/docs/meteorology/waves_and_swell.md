@@ -32,3 +32,5 @@ Lorsque les vagues ne déferlent pas, il n’y a quasiment pas de déplacement
 
 Attention quand le vent et vagues sont opposé au courant. Cela lève un clapot qui va vite devenir dangereux.
 Lors d’un calcul de marée, tenir compte des vagues/houle.
+
+{{< navigation previous="/docs/meteorology/local_weather" parent="/docs/meteorology" next="/docs/meteorology/weather_report" >}}

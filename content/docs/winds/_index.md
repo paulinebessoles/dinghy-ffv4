@@ -41,3 +41,5 @@ Changement de sens du vent **favorable** au voilier
 Changement de sens du vent **défavorable** au voilier
 {{< /tab >}}
 {{< /tabs >}}
+
+{{< navigation parent="/" next="/docs/winds/changing_speed_with_fixed_real_wind_speed" >}}

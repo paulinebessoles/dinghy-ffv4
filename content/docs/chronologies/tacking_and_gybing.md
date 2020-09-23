@@ -63,3 +63,5 @@ L'empannage bascule permet de conserver de la vitesse dans un vent léger.
 5. Tirer sur l'écoute pour éviter qu'elle ne se coince dans le tableau arrière (chasse d'eau) tout en repassant sur l'autre bord.
 5. Se replacer rapidement de l'autre côté et remettre le bateau à plat d'un coup.
 6. Changer de mains
+
+{{< navigation parent="/docs/chronologies" next="/docs/chronologies/abattee" >}}

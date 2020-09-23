@@ -1,6 +1,6 @@
 ---
 title: "Prendre un bon départ"
-weight: 3
+weight: 1
 ---
 
 # Prendre un bon départ
@@ -11,3 +11,5 @@ Il faut observer les autres concurrents et les éléments (vents, courants) et l
 
 Voici une vidéo qui explique comment se placer pour un départ tribord amure.
 {{< youtubestart onD3cg3zCiE 29 >}}
+
+{{< navigation parent="/docs/regatta" >}}

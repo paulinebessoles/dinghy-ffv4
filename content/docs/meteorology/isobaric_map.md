@@ -54,3 +54,7 @@ Front chaud - Front froid -Front occlus -Anticyclone - Dépression
 {{< expand "Réponse">}}
 **A**. Dépression - **B**. Anticyclone - **C**. Front froid - **D**. Front occlus - **E**. Front chaud / 1. vitesse: Environ 40 kts - direction: Ouest /2. vitesse: Environ 10 Kts - direction: Nord-Ouest / Il s'agit d'une carte d'analyse.
 {{< /expand >}}
+
+{{< /hint >}}
+
+{{< navigation previous="/docs/meteorology/weather_associated_with_a_perturbation" parent="/docs/meteorology" next="/docs/meteorology/local_weather" >}}

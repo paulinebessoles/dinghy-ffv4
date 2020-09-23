@@ -23,14 +23,14 @@ headless: true
 - [**Mécanique du Dériveur**]({{<relref"/docs/dinghy_mecanic">}})
     - [Les écoulements]({{<relref"/docs/dinghy_mecanic/flows">}})
     - [Les forces]({{<relref"/docs/dinghy_mecanic/strengths">}})
-    - [Les équilibres]({{<relref"/docs/dinghy_mecanic/balance">}})
+    - [Les équilibres]({{<relref"/docs/dinghy_mecanic/balance">}}) (En cours)
     - [Liaisons directes - indirectes]({{<relref"/docs/dinghy_mecanic/direct-indirect-links">}})
 <br/>
 
 - [**Les réglages**]({{<relref"/docs/settings">}})
     - [Réglages statiques]({{<relref"/docs/settings/statics">}})
     - [Réglages dynamiques]({{<relref"/docs/settings/dynamics">}})
-    - [Position de l'équipage]({{<relref"/docs/settings/positions">}})
+    - [Position de l'équipage]({{<relref"/docs/settings/positions">}}) (En cours)
 <br/>
 
 - [**Les chronologies**]({{<relref"/docs/chronologies">}})
@@ -56,9 +56,9 @@ headless: true
 <br/>
 
 - [**Privilèges de barre et régate**]({{<relref"/docs/regatta">}})
+    - [Prendre un bon départ]({{<relref"/docs/regatta/getting_off_to_a_good_start">}})
     - Les privilèges de barre (En cours)
     - Notion de cadre (En cours)
-    - [Prendre un bon départ]({{<relref"/docs/regatta/getting_off_to_a_good_start">}})
 <br/>
 
 - **Annexes**

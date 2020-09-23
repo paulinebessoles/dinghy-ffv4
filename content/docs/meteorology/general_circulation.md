@@ -40,3 +40,5 @@ Cette force tend à déplacer la particule vers sa droite dans l’hémisphe�
 ![Cellules atmosphère](../images/north-cells.png)
 {{< / expand >}}
 {{< /hint >}}
+
+{{< navigation parent="/docs/meteorology" next="/docs/meteorology/wind" >}}

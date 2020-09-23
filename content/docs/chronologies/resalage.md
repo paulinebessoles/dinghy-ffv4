@@ -44,3 +44,5 @@ Faire chapeau signifie que le bateau est complêtement retourné, c'est une situ
 <--->
 Si vous faites chapeau, il faut beaucoup de force pour extraire la voile à la succion de l'eau, penser à choquer dès que possible.
 {{< /columns >}}
+
+{{< navigation previous="/docs/chronologies/oloffee" parent="/docs/chronologies" next="/docs/chronologies/mast_grabbing" >}}

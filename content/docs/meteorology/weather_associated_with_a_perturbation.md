@@ -56,3 +56,5 @@ La situation s'améliorera alors pour céder sa place au ciel de traîne avec qu
 Plusieures présentations sont possibles
 {{< /expand >}}
 {{< /hint >}}
+
+{{< navigation previous="/docs/meteorology/frontology" parent="/docs/meteorology" next="/docs/meteorology/isobaric_map" >}}

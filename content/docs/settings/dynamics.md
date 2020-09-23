@@ -111,3 +111,5 @@ Plus la sangle est serrée, moins le rappel est important, mais plus le retour d
 Un repère de réglage utilisable est l'éloignement plus ou moins grand du liston par rapport à l'articulation du genou.
 
 Par vent rafaleux, il peut être utile de bien tendre la sangle de rappel afin de gagner en polyvalence: il sera plus aisé de sortir et rentrer au rappel
+
+{{< navigation previous="/docs/settings/statics" parent="/docs/settings" next="/docs/settings/positions" >}}

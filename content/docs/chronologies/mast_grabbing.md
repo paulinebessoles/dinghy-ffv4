@@ -16,3 +16,5 @@ Mal exécutée elle peut devenir dangereuse. Avant de vouloir l’entreprendre
 - Une fois la tête de mât bien en main,visualiser la trajectoire du mât quand il partira : il ne doit pas se coincer.
 - Donner une impulsion vers le haut.
 - Dès que le bateau a resalé s’éloigner un petit peu, il est possible de le stabiliser en le tenant par le nez dans le cas du laser.
+
+{{< navigation previous="/docs/chronologies/resalage" parent="/docs/chronologies" next="/docs/chronologies/dematage" >}}

@@ -33,3 +33,5 @@ Variable en direction:
 {{< /columns >}} 
 {{< /tab >}}
 {{< /tabs >}}
+
+{{< navigation previous="/docs/winds/changing_speed_with_fixed_real_wind_speed" parent="/docs/winds" >}}

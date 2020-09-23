@@ -24,3 +24,5 @@ Il est également disponible sur Internet. La structure est toujours la même 
 - Date et heure du prochain bulletin
 
 Lors d’une prise écrite de bulletin, le débit étant important, pensez à une feuille pré-remplie et utilisez des abréviations.
+
+{{< navigation previous="/docs/meteorology/waves_and_swell" parent="/docs/meteorology" >}}
