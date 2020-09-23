@@ -39,7 +39,7 @@ headless: true
     - [Oloffée à la bouée]({{<relref"/docs/chronologies/oloffee">}})
     - [Resalage]({{<relref"/docs/chronologies/resalage">}})
     - Prise de mât
-    - Remorquage après un démâtage 
+    - [Remorquage à la voile après un démâtage]({{<relref"/docs/chronologies/dematage">}})
     - Homme à la mer
 <br/>
 
