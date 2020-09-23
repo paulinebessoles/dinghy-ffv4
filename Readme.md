@@ -5,5 +5,4 @@ This project is done with Hugo cms and aims to help prepare the passage of level
 TODO: 
 - Add slugs and links translations (SEO)
 - Add sections "how to explain it to beginners" (hint info)
-- Add featured image (share link)
 - Add full PWA setup

@@ -39,6 +39,9 @@ menu:
       weight: 11
 
 params:
+  images:
+   - "/images/laser-solo.jpg"
+  description: "Site regroupant les ressources théoriques pour préparer le passage du niveau 4 de la fédération française de voile"
   gSearchConsole: "mdCc1B8vLVV2Pra03Jc3C9_e3GEGg8CuxJv2IlHFSwU"
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
