@@ -40,7 +40,7 @@ headless: true
     - [Resalage]({{<relref"/docs/chronologies/resalage">}})
     - [Prise de mât]({{<relref"/docs/chronologies/mast_grabbing">}})
     - [Remorquage à la voile après un démâtage]({{<relref"/docs/chronologies/dematage">}})
-    - Homme à la mer
+    - [Homme à la mer]({{<relref"/docs/chronologies/man_overboard">}})
 <br/>
 
 - **Les marées**
