@@ -8,7 +8,7 @@ Pour représenter le vent , on utilise un outil mathématique : le vecteur . T
 
 ## Le vecteur
 {{< columns >}}
-![Vecteurs](images/vectors.png)
+{{< figure caption="Vecteurs" src="images/vectors.png" >}}
 <--->
 - La longueur du vecteur est proportionnelle à la force du vent
 - La flèche et la direction du vecteur renseignent sur la direction du vent

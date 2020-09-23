@@ -6,7 +6,7 @@ weight: 1
 
 ## Explication des différences de température sur la terre
 {{< columns >}}
-![Diagramme terre soleil](../images/cell-sun.jpeg)
+{{< figure caption="Diagramme terre soleil" src="../images/cell-sun.jpeg" >}}
 <--->
 Le soleil nous fournit la quasi-totalité de notre énergie. 
 Le bilan énergétique de la Terre est nul : la Terre renvoie dans l’espace toute l’énergie qu’elle reçoit.
@@ -19,14 +19,14 @@ Cela crée des cellules de convections.
 
 A l’échelle planétaire, il existe plusieurs cellules de convections qui régissent la météorologie. Il y en a trois principales :
 {{< columns >}}
-![Diagramme cellule métérologique](../images/cell-earth.png)
+{{< figure caption="Diagramme cellule métérologique" src="../images/cell-earth.png" >}}
 <--->
 - cellule de Hadley
 - cellule de Ferrel
 - cellule polaire.
 {{< /columns >}}
 {{< columns >}}
-![Diagramme coriolis](../images/coriolis.png)
+{{< figure caption="Diagramme coriolis" src="../images/coriolis.png" >}}
 <--->
 Cependant, la direction des mouvements de ces masses d’air se trouve modifiée par la présence de la force de Coriolis. Cette dernière est due à la rotation de la Terre sur son axe : toute particule en mouvement dans un fluide (air ou eau par ex.) la subit. Elle dépend de la latitude et de la vitesse de la particule.
 - Plus la particule est éloignée de l’équateur, plus la force de Coriolis est intense.
@@ -37,7 +37,7 @@ Cette force tend à déplacer la particule vers sa droite dans l’hémisphe�
 {{< hint warning >}}
 **Faites un schéma des différentes cellules dans l'hémisphère nord:** 
 {{< expand "Réponse">}}
-![Cellules atmosphère](../images/north-cells.png)
+{{< figure caption="Cellules atmosphère" src="../images/north-cells.png" >}}
 {{< / expand >}}
 {{< /hint >}}
 

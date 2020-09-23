@@ -52,7 +52,7 @@ stateDiagram
 Si plusieurs voiles sont présentes, il est possible de jouer avec l'équilibre des deux autour du mat:
 la voile d'avant va permettre d'abattre et la grand voile va permettre de lofer.
 
-![Dériveur à la gite](../images/gite.jpg)
+{{< figure caption="Dériveur à la gite" src="../images/gite.jpg" >}}
 
 Pour remettre ce dériveur à plat, on peut soit choquer la voile soit augmenter le rappel.
 
@@ -70,7 +70,7 @@ stateDiagram
     - Puisque le poids à une action sur la direction, il en a une sur la propulsion.
     - En fonction du placement, le poids permet une meilleure remonté au près, ou une meilleure descente au vent  
 
-![Virement bascule](../images/virement-bascule.jpeg)
+{{< figure caption="Virement bascule" src="../images/virement-bascule.jpeg" >}}
 
 Le virement bascule et l'empannage sont la première application du poids comme liaisons indirectes, en faisant giter le bateau, on force sa direction en limitant la trainée du safran
 

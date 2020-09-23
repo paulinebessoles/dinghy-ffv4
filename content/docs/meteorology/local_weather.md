@@ -15,7 +15,7 @@ Certaines brises thermiques peuvent souffler jusqu'à force 6.
 
 ### Brise thermique diurne
 {{< columns >}}
-![Brise cotière](../images/costal-breeze.png)
+{{< figure caption="Brise cotière" src="../images/costal-breeze.png" >}}
 <--->
 Le soleil réchauffe la terre plus vite que la mer. L’air commence à s’élever.
 Cet air peut être entraîné par le vent synoptique d’altitude (de 1500 à 2000m), l’air «chaud»part vers la mer et se refroidit: il descend doucement jusqu'à arriver à la surface de l’eau. Il s'agit d'une **cellule de convection** 
@@ -27,7 +27,7 @@ Vers la mi-journée,les premiers cumulus sont présents et la brise commence a
 {{< /columns >}}
 
 {{< columns >}}
-![Brise marine](../images/sea-breeze.png)
+{{< figure caption="Brise marine" src="../images/sea-breeze.png" >}}
 <--->
 Une fois établie, la brise reste habituellement jusqu’au coucher du soleil. Attention à ne pas se faire «piéger» lors des navigations par régime de brises (le vent pouvant alors diminuer bien avant le coucher de soleil si la  brise  est faible en intensité). Enfin, la direction du vent tourne (vers la droite) au cours de la journée dû à la force de Coriolis.
 {{< /columns >}}
@@ -35,7 +35,7 @@ Une fois établie, la brise reste habituellement jusqu’au coucher du soleil. 
 {{< hint warning >}}
 **Faites un schéma pour expliquer la brise thermique cotière diurne:**
 {{< expand "Réponse">}}
-![Brise marine shéma](../images/sea-breeze-schema.jpeg)
+{{< figure caption="Brise marine shéma" src="../images/sea-breeze-schema.jpeg" >}}
 {{< /expand >}}
 {{< /hint >}}
 
@@ -43,7 +43,7 @@ Une fois établie, la brise reste habituellement jusqu’au coucher du soleil. 
 
 On peut utiliser un système de points pour prédire si la brise thermique a des chances de se lever:
 {{< columns >}}
-![Quadrant brise thermique](../images/quadrant-breeze.png)
+{{< figure caption="Quadrant brise thermique" src="../images/quadrant-breeze.png" >}}
 <--->
 * Si la température de l'air **n'est pas supérieure d'environ 4°** à celle de l'eau, la brise thermique **n'est pas possible**.
 * Si la vitesse du vent synoptique **est supérieure à 16 kts**, la brise thermique **n'est pas possible**.
@@ -84,21 +84,21 @@ Un effet de site est dû à la géographie locale. Il en existe un grand nomb
 {{< tabs "site-effects" >}}
 {{< tab "Effet de pointe" >}}
 {{< columns >}}
-![Effet de pointe](../images/point-effect.png)
+{{< figure caption="Effet de pointe" src="../images/point-effect.png" >}}
 <--->
 Si le vent vient toucher une pointe sous une direction latérale, il a tendance à diverger de façon radiale. Pour une île, le côté sous le vent est déventé et les côtés extérieurs sont plus ventés (coté bâbord plus venté).
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Effet de canalisation" >}}
 {{< columns >}}
-![Effet de canalisation](../images/canalisation-effect.png)
+{{< figure caption="Effet de canalisation" src="../images/canalisation-effect.png" >}}
 <--->
 Il se crée un effet Venturi par canalisation. L'accélération commence avant le détroit et continue quelques milles après.
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Relief et cours d'eau" >}}
 {{< columns >}}
-![Relief et cours d'eau](../images/relief_and_watercourses.png)
+{{< figure caption="Relief et cours d'eau" src="../images/relief_and_watercourses.png" >}}
 <--->
 Le vent a tendance à suivre globalement la géographie locale. Ainsi sa direction et sa force se trouveront modifié (effet Venturi).
 {{< /columns >}}
@@ -107,13 +107,13 @@ Le vent a tendance à suivre globalement la géographie locale. Ainsi sa direc
  les frottements étant plus importants sur terre que sur mer, le vent au dessus des terres est plus faible. La force de Coriolis est donc moins importante. Le vent sur mer sera donc orienté plus « à droite » que le vent sur terre.
 {{< /tab >}}{{< tab "Côte moyennement élevée" >}}
 {{< columns >}}
-![Côte moyennement élevée](../images/moderately_high_hill.png)
+{{< figure caption="Côte moyennement élevée" src="../images/moderately_high_hill.png" >}}
 <--->
  création d’un « coussin » (vent faible et désordonné).
 {{< /columns >}}
 {{< /tab >}}{{< tab "Côtes élevées" >}}
 {{< columns >}}
-![Côtes élevées](../images/high_hill.png)
+{{< figure caption="Côtes élevées" src="../images/high_hill.png" >}}
 <--->
 Côtes avec relief important, type Côte d’Azur, Corse, Pays Basque): onde de dévent avec possibilité de retour.
 {{< /columns >}}
@@ -123,7 +123,7 @@ Côtes avec relief important, type Côte d’Azur, Corse, Pays Basque): onde de 
 {{< hint warning >}}
 **Faites un schéma pour illustrer un effet de canalisation local:**
 {{< expand "Réponse">}}
-![Brise marine shéma](../images/canalisation-effect-local.png)
+{{< figure caption="Brise marine shéma" src="../images/canalisation-effect-local.png" >}}
 {{< /expand >}}
 {{< /hint >}}
 
@@ -136,16 +136,16 @@ Il faut dissocier le cas d’un grain pluvieux et d’un grain non pluvieux.
 
 ### Grain précipitant
 {{< columns >}}
-![Grain précipitant](../images/raining_grain.png)
+{{< figure caption="Grain précipitant" src="../images/raining_grain.png" >}}
 <--->
-![Les vents du grain précipitant](../images/raining_grain_wind.png)
+{{< figure caption="Les vents du grain précipitant" src="../images/raining_grain_wind.png" >}}
 {{< /columns >}}
 
 ### Grain non précipitant
 {{< columns >}}
-![Grain non précipitant](../images/non_raining_grain.png)
+{{< figure caption="Grain non précipitant" src="../images/non_raining_grain.png" >}}
 <--->
-![Les vents du grain non précipitant](../images/non_raining_grain_wind.png)
+{{< figure caption="Les vents du grain non précipitant" src="../images/non_raining_grain_wind.png" >}}
 {{< /columns >}}
 
 {{< hint warning >}}

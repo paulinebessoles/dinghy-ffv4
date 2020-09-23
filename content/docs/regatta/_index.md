@@ -22,10 +22,10 @@ D’autres parcours tels que le parcours « côtier » (grand parcours délimit�
 
 {{< tabs "air-volumes" >}}
 {{< tab "Banane avec dogleg" >}}
-![Banane avec dogleg](images/banane-dogleg.jpg)
+{{< figure caption="Banane avec dogleg](images/banane-dogleg.jpg" >}}
 {{< /tab >}}
 {{< tab "Triangle Olympique" >}}
-![Triangle Olympique](images/triangle_olympique.jpg)
+{{< figure caption="Triangle Olympique](images/triangle_olympique.jpg" >}}
 {{< /tab >}}
 {{< /tabs >}}
 

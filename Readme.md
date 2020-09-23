@@ -1,1 +1,1 @@
-![github pages](https://github.com/armandfardeau/dinghy-ffv4/workflows/github%20pages/badge.svg)
+{{< figure caption="github pages](https://github.com/armandfardeau/dinghy-ffv4/workflows/github%20pages/badge.svg" >}}

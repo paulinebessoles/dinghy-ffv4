@@ -6,7 +6,7 @@ weight: 3
 
 ## Chronologie
 {{< columns >}}
-![Abattée à la bouée](../images/abattee.png)
+{{< figure caption="Abattée à la bouée" src="../images/abattee.png" >}}
 <--->
 1. Préparation:
 * Mettre l'écoute claire

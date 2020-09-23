@@ -12,7 +12,7 @@ weight: 9
 
 # Formation
 {{< columns >}}
-![Naissance de la houle et des vagues](../images/waves-birth.jpg)
+{{< figure caption="Naissance de la houle et des vagues" src="../images/waves-birth.jpg" >}}
 <--->
 1. Création des vagues sur la totalité des mers du globe
 2. Après affaiblissement du vent ou diffusion des vagues en dehors de la zone ventée, elles se propagent librement, ce qui est alors appelé la houle
@@ -25,7 +25,7 @@ Exemple: on prend une série de 100 vagues. Sur ces 100 vagues on ne retient qu
 
 # Energie de la vague
 {{< columns >}}
-![Déplacement d'onde](../images/wave-energy.png)
+{{< figure caption="Déplacement d'onde" src="../images/wave-energy.png" >}}
 <--->
 Lorsque les vagues ne déferlent pas, il n’y a quasiment pas de déplacement horizontal d’eau sur un espace de temps court. Ce sont des ondes (déplacement d’énergie).
 {{< /columns >}}
