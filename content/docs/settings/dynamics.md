@@ -5,6 +5,19 @@ weight: 1
 # Les réglages dynamiques
 
 ## L'écoute
+
+{{< hint info >}}
+{{< details "Expliqué à un stagiaire débutant..." open >}}
+L'écoute sert à régler l'angle de la voile par rapport au vent, c'est elle qui assure la propulsion du voilier. On la borde au près et on la choque au portant.
+
+* Pour régler au près:
+on observe le faseyement de la voile, dès qu'il apparait, on borde un peu pour l'effacer. Pour être sûr de ne pas être trop bordé, on la choque régulièrement pour faire apparaitre le fasseyement, puis on l'efface.
+
+* Pour régler au portant: 
+on place la voile à angle droit avec le vent.
+{{< /details >}}
+{{< /hint >}}
+
 Relâchons tous les réglages sauf celui de la patte d'oie qui restera bien tendu et celui de la bordure qui sera moyennement pris, et plaçons la bôme perpendiculaire au bateau.
 
 La prise de l'écoute a deux effets bien distincts :
@@ -18,7 +31,21 @@ La prise de l'écoute a deux effets bien distincts :
 {{< /columns >}}
 
 Ce cintre du mât résorbe le rond de guindant et aplatit la voile. La tension exercée entre la têtière et le point d'écoute de la voile "ferme la chute", c'est à dire s'oppose à son vrillage.
+
 ## Le hale-bas
+
+{{< hint info >}}
+{{< details "Expliqué à un stagiaire débutant..." open >}}
+Le hale-bas sert à conserver de la puissance entre 2 virement au près et à gérer la surpuissance;
+
+* Pour régler au près:
+On le reprend dès qu'il est mou.
+
+* Pour régler au portant: 
+On le tend suffisamment pour éviter que la bôme ne remonte plus qu'à angle droit avec le mat.
+{{< /details >}}
+{{< /hint >}}
+
 Son action est proche de l'effet 2 de l'écoute. En rapprochant ses 2 insertions (le 1/4 avant de la bôme et la partie du mât proche de l'étambrai), il exerce :
 
 * une tension verticale qui fait "fermer la chute" et cintrer le mât ainsi que la bôme. Ceci provoque l'aplatissement de la voile et la réduction de son vrillage.
@@ -40,9 +67,15 @@ Au portant le halebas joue un rôle spécifique puisqu'il permet de retenir la b
 
 ## Le cunningham
 
+{{< hint info >}}
+{{< details "Expliqué à un stagiaire débutant..." open >}}
+On reprend le cunningham pour effacer les plis horizontaux sur la voile.
+{{< /details >}}
+{{< /hint >}}
+
 Il exerce une tension verticale sur le guindant de la voile. 
 
-Son premier intérêt est donc de pouvoir corriger tension du guindant plus faible par rapport à la chute. UN bon repère est la présence caractéristique de plis en patte d'oie dans la voile.
+Son premier intérêt est donc de pouvoir corriger tension du guindant plus faible par rapport à la chute. Un bon repère est la présence caractéristique de plis en patte d'oie dans la voile.
 Afin de remédier à ces plis imperformants, il convient de reprendre le cunningham jusqu'à les effacer.
 
 {{< columns >}}
@@ -61,12 +94,29 @@ Mais là n'est pas le seul intérêt du cunningham. Ses fonctions essentielles s
     * Cela permet à la partie supérieure de la voile de "s'effacer" dans la risée, diminuant ainsi la force aérodynamique. Ce vrillage constitue dans une certaine mesure une autorégulation des surventes par le gréement.
 
 ## La bordure
+
+{{< hint info >}}
+{{< details "Expliqué à un stagiaire débutant..." open >}}
+La bordure permet de doser la puissance.
+
+On la choque jusqu'à 20 cm de creux dans la voile et on la reprend dès que l'on peine à maintenir le bateau à plat.
+{{< /details >}}
+{{< /hint >}}
+
 Le réglage de bordure permet de doser le creux général que l'on donne à la voile et donc la puissance de celle-ci. Il existe toutefois une limite au-delà de laquelle détendre la bordure cesse d'augmenter la puissance et transforme la voile en "sac", perturbant ainsi les écoulements de l'air autour du profil.
 
 Cette limite peut s'objectiver en mesurant la distance maximale séparant la bôme de la voile sur une perpendiculaire aux deux. De nombreux laseristes considèrent qu'elle est atteinte lorsque le pouce et l'auriculaire, écartés au maximum, joignent ces deux points (soit environ 20 cm).
 
 {{< figure caption="Réglage de la bordure" src="../images/bordure.svg" >}}
+
 ## La patte d'oie
+
+{{< hint info >}}
+{{< details "Expliqué à un stagiaire débutant..." open >}}
+On reprend la patte d'oie jusqu'au contact de la barre.
+{{< /details >}}
+{{< /hint >}}
+
 En association avec le hale-bas, elle pallie l'absence de chariot d'écoute en maintenant la bôme excentrée au près.
 
 Pour remplir efficacement ce rôle, il importe que la patte d'oie soit fortement étarquée. A défaut, la bôme s'élève et rentre vers le centre du bateau ; ainsi lorsque le réglage de patte d'oie est détendu, la poulie guidée par celui-ci se trouve rehaussée. La tension verticale qu'exerce l'écoute, en rapprochant cette poulie à celle fixée sur l'extrémité arrière de la bôme est alors diminuée.
@@ -82,6 +132,19 @@ Pour régler la patte d'oie, on l'étarque au maximum et si elle gêne le passag
 
 ## La dérive 
 
+{{< hint info >}}
+{{< details "Expliqué à un stagiaire débutant..." open >}}
+La dérive permet au voilier d'avancer le plus droit possible en générant une force opposé à la force du vent.
+
+* Pour régler au près:
+On la descend au maximum.
+* Pour régler au travers:
+On la relève de 10 cm.
+* Pour régler au portant: 
+On la relève de 20 cm.
+{{< /details >}}
+{{< /hint >}}
+
 {{< figure caption="Réglage de la dérive" src="../images/derive.svg" >}}
 
 Le laser présente une carène relativement plate et des appendices de faibles surfaces. 
@@ -95,6 +158,13 @@ Les deux défauts les plus couramment observés chez les stagiaires:
 * Ne pas enfoncer la dérive à fond! Il faut utiliser toute la surface antidérive possible, ne vous privez pas de 2 centimètres salutaires. 
 
 ## La sangle de rappel
+
+{{< hint info >}}
+{{< details "Expliqué à un stagiaire débutant..." open >}}
+On la tend au maximum pour bénéficier du réglage le plus polyvalent.
+{{< /details >}}
+{{< /hint >}}
+
 De nombreux laseristes optent pour une sangle de rappel réglable. Ce réglage est très important car il permet de moduler le compromis confort/couple de rappel nécessaire en fonction de l'allure et des conditions de vent et de mer rencontrés.
 
 Nous présentons le montage le plus courant:

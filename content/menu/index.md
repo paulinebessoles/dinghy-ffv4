@@ -43,9 +43,8 @@ headless: true
     - [Homme à la mer]({{<relref"/docs/chronologies/man_overboard">}})
 <br/>
 
-- **Les marées** (En cours)
-    - Définitions Phénomène de marée (En cours)
-    - Calcul de la hauteur d’eau (En cours)
+- [**Les marées**]({{<relref"/docs/tides">}})
+    - [Calcul de la hauteur d’eau]({{<relref"/docs/tides/water_height_calculation">}})
 <br/>
 
 - **Balisage et carte** (En cours)
@@ -62,6 +61,7 @@ headless: true
 <br/>
 
 - **Annexes**
+    - [Comment gréer un laser]({{<relref"/docs/annexes/laser_rigging">}})
     - Reconnaître les nuages (En cours)
     - [Les fronts]({{<relref"/docs/annexes/annexe-fronts">}})
     - Du bon usage d’un bateau à moteur (En cours)

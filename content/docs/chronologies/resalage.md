@@ -13,6 +13,9 @@ Dessaler n’est pas anodin. Selon les conditions, on peut se faire mal (et peur
 Le maître mot du ressalage est la temporisation: il faut être rapide, mais pas se précipiter.
 
 ## Ressaler
+
+{{< youtubestart gEWBWxcUcJc 18 >}}
+
 - Choquer le halebas et l'écoute en grand.
 - Mettre le bateau face au vent en faisant un pivot à l'aide du liston et de la dérive.
 - Une fois le bateau face au vent, faites pivot avec la dérive. En cas de vent fort, il n'est pas rare que le bateau vous tombe dessus : attention à la tête.

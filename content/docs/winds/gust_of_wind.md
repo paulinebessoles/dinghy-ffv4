@@ -12,7 +12,7 @@ Une risée est une augmentation du vent réel. Ce tableau peut être pris à
 Force qui augmente: 
 
 * On **choque** un peu – On **maintient** le cap – **reborde**.
-* Si le vent réel est trop fort, le **vent apparent (va) adonne** sans qu’on puisse tenir le bateau et on doit alors **lofer ou choquer**.
+* Si le vent réel est trop fort, le **vent apparent (va) adonner** sans qu’on puisse tenir le bateau et on doit alors **lofer ou choquer**.
 <--->
 Variable en direction:
 * Vent qui **adonne**: on **lofe** afin de suivre le vent.
@@ -20,7 +20,7 @@ Variable en direction:
 {{< /columns >}} 
 {{< /tab >}}
 {{< tab "Au travers" >}}
-Pour diminuer l’allongement de la route, on préfère **suivre les changements** devent (adonnante ou refusante) aux écoutes.
+Pour diminuer l’allongement de la route, on préfère **suivre les changements** de vent (adonnante ou refusante) aux écoutes.
 {{< /tab >}}
 {{< tab "Au portant" >}}
 {{< columns >}} 

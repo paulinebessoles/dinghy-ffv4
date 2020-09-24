@@ -27,3 +27,14 @@ figure{
     font-style: italic;
   }
 }
+
+.book-hint{
+  details{
+    border: initial;
+    border-radius: initial;
+
+    summary{
+      font-weight: bold;
+    }
+  }
+}
