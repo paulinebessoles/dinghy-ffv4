@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Cours théorique Niveau 4 FFV
 type: docs
 BookToC: false
 ---
