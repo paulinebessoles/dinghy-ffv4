@@ -13,7 +13,7 @@ Table des matières:
 - [**Mécanique du Dériveur**]({{<relref"/docs/dinghy_mecanic">}})
 - [**Les réglages**]({{<relref"/docs/settings">}})
 - [**Les chronologies**]({{<relref"/docs/chronologies">}})
-- **Les marées** (En cours)
+- [**Les marées**]({{<relref"/docs/tides">}})
 - **Balisage et carte** (En cours)
 - [**Privilèges de barre et régate**]({{<relref"/docs/regatta">}})
 
