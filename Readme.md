@@ -6,6 +6,6 @@ This project is done with Hugo cms and aims to help prepare the passage of level
 ```bash
 docker-compose up
 ```
-the visit `http://localhost:1313/dinghy-ffv4/`
+then visit `http://localhost:1313/dinghy-ffv4/`
 
 `master` branch is deplyed automatically
