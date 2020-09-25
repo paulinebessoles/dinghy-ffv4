@@ -14,7 +14,7 @@ Il existe le virement classique et le virement bascule, ce dernier est réservé
 ### Virement classique
 Sur cette vidéo nous pouvons voir **Marit Bouwmeester**, plusieurs fois championne du monde et médaille d'or olympique illustrer la technique du virement.
 
-{{< youtube exJ0s8ilD1U >}}
+{{< youtubestart exJ0s8ilD1U 0 >}}
 
 1. Naviguer au près
 2. Choisir votre moment pour virer de bord
@@ -27,7 +27,7 @@ Sur cette vidéo nous pouvons voir **Marit Bouwmeester**, plusieurs fois champio
 ### Virement bascule
 Le virement bascule permet de virer dans le vent léger.
 
-{{< youtube QrMGeMivpdE >}}
+{{< youtubestart QrMGeMivpdE 0 >}}
 
 1. Utiliser soit le poids du corps (gîte) soit la barre pour loffer
 2. Passer la jambe (arrière) par dessus la sangle de rappel 
