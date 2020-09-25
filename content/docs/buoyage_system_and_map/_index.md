@@ -93,3 +93,5 @@ Du fait de notre activité (voile légère avec très peu de tirant d’eau)
 {{< figure caption="Alignement à l'entrée du port de Concarneau" src="images/alignement-concarneau.png" >}}
 
 Soyez critiques avec vos alignements: ils peuvent être difficile à tenir (alignement en arrière, vent refusant), ou bien invisible depuis le ras de l'eau.
+
+{{< navigation parent="/" >}}
