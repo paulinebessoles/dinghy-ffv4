@@ -44,6 +44,11 @@ weight: 2
 2. Pratiquer 2 clés devant le taquet clam pour l'empecher de remonter
 3. Passer le crochet élastique dans la poignée de la dérive et enfiler cette dernière dans son puit, la descendre complêtement
 
+## Détails du gréément
+{{< figure caption="Vue d'ensemble et nomenclature des parties" src="../images/vue-ensemble.png" >}}
+{{< figure caption="Détails des réglages en pieds de mât" src="../images/kit-mat.png" >}}
+{{< figure caption="Détails des réglages en bout de bôme" src="../images/kit-bordure.png" >}}
+
 ## Précautions
 * À terre, le hale-bas est toujours choqué et la bordure reprise pour retirer de la puissance à la voile, cela permettra de limiter l'usure prémarturée de la voile
 * Descendre le safran et la dérive qu'en eau sûre, il est aisé de les endommager

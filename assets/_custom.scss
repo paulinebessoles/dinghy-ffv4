@@ -63,3 +63,22 @@ figure{
     }
   }
 }
+
+.book-hint.more{
+  border-color: $more;
+  background-color: rgba($more, 0.1);
+
+  details{
+    .markdown-inner{
+      text-align: center;
+
+      p{
+        text-align: initial
+      }
+
+      a{
+        text-align: center
+      }
+    }
+  }
+}
