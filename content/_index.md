@@ -7,7 +7,7 @@ BookToC: false
 
 {{< figure caption="Laséristes en compétition au portugal" src="images/laser-solo.jpg" >}}
 
-Table des matières:
+Table des matières :
 
 - [**Météo**]({{<relref"/docs/meteorology">}})
 - [**Les vents**]({{<relref"/docs/winds">}})
@@ -18,6 +18,6 @@ Table des matières:
 - [**Balisage et carte**]({{<relref"/docs/buoyage_system_and_map">}})
 - [**Privilèges de barre et régate**]({{<relref"/docs/regatta">}})
 
-Ce cours théorique s'inspire du travail d'Antoine Rogues pour l'[ex niveau 5 ffv en catamaran](http://glenans.arogues.org/niveau5.pdf)
+Ce cours théorique s'inspire du travail d'Antoine Rogues pour l'[ex niveau 5 ffv en catamaran](http://glenans.arogues.org/niveau5.pdf).
 
 Ce support ne saurait remplacer un apprentissage auprès de moniteurs compétents, il est le fruit d'opinions qui doivent être critiquées, remises en question et enrichies de vos expériences.
